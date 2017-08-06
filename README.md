@@ -27,7 +27,9 @@ We performed four different types of crowd sourcing experiments in our paper, wh
 
 - `fact_ranking-importance.png`: Used for building fact ranking collection. The workers were presented with a single fact for an entity, and were asked to rate the importance of the fact w.r.t. the entity.
 - `fact_ranking-relevance.png`: Similar to the preveious experiment, but the workers were also provided with a query and asked to assess the relevance of the entity fact w.r.t. the query. 
-- `user_preference-fact_ranking.png`: The user preference study for evaluating the generated summaries. The workers were presented with twosummaries and were asked to select the preferred summary, orthe tie option. In this experiment, we applied the same summary generation algorithm, but feed it with a ranked list of facts from different methods.
+- `user_preference-fact_ranking.png`: The user preference study for evaluating the generated summaries. The workers were presented with two
+summaries and were asked to select the preferred summary, or
+the tie option. In this experiment, we applied the same summary generation algorithm, but feed it with a ranked list of facts from different methods.
 - `user_preference-summary_generation.png`: Similar to the previous experiment, but different summary generation algorithms were applied to the same ranked list of facts.
 
 ## Citation
@@ -49,4 +51,4 @@ If you use the resources presented in this repository, please cite:
 
 ## Contact
 
-If you have any questions, feel free to contact Faegheh Hasibi at <faegheh.hasibi@idi.ntnu.no>.
+If you have any questions, feel free to contact Faegheh Hasibi at <faegheh.hasibi@ntnu.no>.
