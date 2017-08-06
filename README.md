@@ -9,6 +9,8 @@ You can check the [paper](http://hasibi.com/files/sigir2017-dynes.pdf) and [pres
 
 The repository is structured as follows:
 
+- `data/`: Qrels, queries, and fact ranking collection
+- `runs/`: Run files reported in the paper.
 
 ## Citation
 
