@@ -1,0 +1,100 @@
+INEX_LD-2009111	europe solar power facility	<dbpedia:Solar_power_by_country>
+INEX_LD-2010043	List of films from the surrealist category	<dbpedia:Santa_Sangre>
+INEX_LD-2010057	Einstein Relativity theory	<dbpedia:Erich_Kretschmann>
+INEX_LD-2010069	summer flowers	<dbpedia:Lilium_candidum>
+INEX_LD-20120112	vietnam war facts	<dbpedia:Military_history_of_Australia_during_the_Vietnam_War>
+INEX_LD-20120121	vietnam food recipes	<dbpedia:Prawn_cracker>
+INEX_LD-20120122	vietnamese food blog	<dbpedia:Cold_Food_Festival>
+INEX_LD-20120132	vietnam travel airports	<dbpedia:Noi_Bai_International_Airport>
+INEX_LD-20120222	guitar classical bach	<dbpedia:Sophocles_Papas>
+INEX_LD-20120311	tango culture movies	<dbpedia:Rodolfo_Biagi>
+INEX_LD-20120312	tango culture countries	<dbpedia:In-tango>
+INEX_LD-20120332	tango dance history	<dbpedia:Tango>
+INEX_LD-20120422	bicycle holiday nature	<dbpedia:Ned_Brown_Forest_Preserve>
+INEX_LD-20120531	music conferences	<dbpedia:International_Computer_Music_Conference>
+INEX_LD-2012301	Niagara falls origin lake	<dbpedia:Niagara_Parkway>
+INEX_LD-2012315	Baguio Quezon City Manila official independence 1945	<dbpedia:Second_Philippine_Republic>
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	<dbpedia:Bride_of_the_Monster>
+INEX_LD-2012319	1994 short story collection Alice Munro is Open	<dbpedia:Lives_of_Girls_and_Women>
+INEX_LD-2012339	Nelson Mandela John Dube	<dbpedia:Nelson_Mandela>
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	<dbpedia:Alexander_Nevsky_Cathedral,_Sofia>
+INEX_LD-2012355	England football player highest paid	<dbpedia:Danny_Care>
+INEX_LD-2012361	most famous award winning actor singer	<dbpedia:Yaza_Ne_Win>
+INEX_LD-2012371	most beautiful railway stations world cities located	<dbpedia:Parappanangadi>
+INEX_LD-2012383	famous computer scientists disappeared at sea	<dbpedia:Jim_Gray_(computer_scientist)>
+INEX_LD-2012389	frequently visited sharks gulf Indian Ocean	<dbpedia:Gulf_of_Mannar>
+INEX_XER-122	Movies with eight or more Academy Awards	<dbpedia:On_the_Waterfront>
+INEX_XER-128	Bond girls	<dbpedia:Ursula_Andress>
+INEX_XER-129	Science fiction book written in the 1980	<dbpedia:Dragon's_Egg>
+INEX_XER-130	Star Trek Captains	<dbpedia:James_T._Kirk>
+INEX_XER-135	professional baseball team in Japan	<dbpedia:Yomiuri_Giants>
+INEX_XER-136	Japanese players in Major League Baseball	<dbpedia:Hideo_Nomo>
+INEX_XER-141	Universities in Catalunya	<dbpedia:Polytechnic_University_of_Catalonia>
+INEX_XER-81	Movies about English hooligans	<dbpedia:Green_Street>
+INEX_XER-88	Nordic authors who are known for children's literature	<dbpedia:Hans_Christian_Andersen>
+INEX_XER-98	Makers of lawn tennis rackets	<dbpedia:Dunlop_Sport_(Australia)>
+INEX_XER-99	Computer systems that have a recursive acronym for the name	<dbpedia:GiNaC>
+QALD2_te-100	Who produces Orangina?	<dbpedia:A.G._Barr>
+QALD2_te-14	Give me all members of Prodigy.	<dbpedia:Liam_Howlett>
+QALD2_te-21	What is the capital of Canada?	<dbpedia:Ottawa>
+QALD2_te-27	Sean Parnell is the governor of which U.S. state?	<dbpedia:Alaska>
+QALD2_te-3	Who is the mayor of Berlin?	<dbpedia:Klaus_Wowereit>
+QALD2_te-31	Give me all current Methodist national leaders.	<dbpedia:Ellen_Johnson_Sirleaf>
+QALD2_te-41	Who founded Intel?	<dbpedia:Robert_Noyce>
+QALD2_te-44	Which cities does the Weser flow through?	<dbpedia:Bremerhaven>
+QALD2_te-48	In which UK city are the headquarters of the MI6?	<dbpedia:London>
+QALD2_te-57	Give me the Apollo 14 astronauts.	<dbpedia:Stuart_Roosa>
+QALD2_te-60	Give me a list of all lakes in Denmark.	<dbpedia:Bølling_lake>
+QALD2_te-8	To which countries does the Himalayan mountain system extend?	<dbpedia:Bhutan>
+QALD2_te-81	Which books by Kerouac were published by Viking Press?	<dbpedia:Atop_an_Underwood:_Early_Stories_and_Other_Writings>
+QALD2_te-82	Give me a list of all American inventions.	<dbpedia:BASIC>
+QALD2_te-97	Who painted The Storm on the Sea of Galilee?	<dbpedia:Rembrandt>
+QALD2_te-98	Which country does the creator of Miffy come from?	<dbpedia:Netherlands>
+QALD2_tr-11	Which countries have places with more than two caves?	<dbpedia:Wales>
+QALD2_tr-24	Which mountain is the highest after the Annapurna?	<dbpedia:Gasherbrum_I>
+QALD2_tr-28	Which European countries have a constitutional monarchy?	<dbpedia:Norway>
+QALD2_tr-58	Who produced the most films?	<dbpedia:Hal_Roach>
+QALD2_tr-59	Give me all people with first name Jimmy.	<dbpedia:Jimmy_Liao>
+QALD2_tr-64	Which software has been developed by organizations founded in California?	<dbpedia:Yahoo!_Mail>
+QALD2_tr-77	Which music albums contain the song Last Christmas?	<dbpedia:Disco_Defenders>
+QALD2_tr-80	Give me all Canadian Grunge record labels.	<dbpedia:Murderecords>
+QALD2_tr-86	Give me all female German chancellors.	<dbpedia:Angela_Merkel>
+SemSearch_ES-100	YMCA Tampa	<dbpedia:YMCA>
+SemSearch_ES-101	ashley wagner	<dbpedia:Ashley_Wagner>
+SemSearch_ES-112	espresso tv stands	<dbpedia:Expresso_Bongo>
+SemSearch_ES-123	michael zimmerman	<dbpedia:Michael_E._Zimmerman>
+SemSearch_ES-124	motorola bluetooth hs850	<dbpedia:Motorola_Rokr>
+SemSearch_ES-130	plymouth police department	<dbpedia:Devon_and_Cornwall_Police>
+SemSearch_ES-132	sealy mattress co	<dbpedia:Sealy_Corporation>
+SemSearch_ES-137	steak express	<dbpedia:Steak_frites>
+SemSearch_ES-140	toledo bend realty	<dbpedia:Toledo,_Ohio>
+SemSearch_ES-19	carl lewis	<dbpedia:Carl_Lewis>
+SemSearch_ES-2	B. F. Skinner	<dbpedia:B._F._Skinner>
+SemSearch_ES-20	carolina	<dbpedia:South_Carolina>
+SemSearch_ES-25	david suchet	<dbpedia:David_Suchet>
+SemSearch_ES-27	earl may	<dbpedia:Earl_of_Carnarvon>
+SemSearch_ES-30	eloan line of credit	<dbpedia:E-Loan>
+SemSearch_ES-40	james clayton md	<dbpedia:Thomas_Clayton>
+SemSearch_ES-5	Scott County	<dbpedia:Scott_County_Jail_Complex>
+SemSearch_ES-54	marc anthony	<dbpedia:Marc_Anthony_(album)>
+SemSearch_ES-66	overeaters anonymous	<dbpedia:TOPS_Club>
+SemSearch_ES-70	radio italia online	<dbpedia:Virgin_Radio_Italia>
+SemSearch_ES-74	sacred heart u	<dbpedia:Carrollton_School_of_the_Sacred_Heart>
+SemSearch_ES-86	the morning call lehigh valley pa	<dbpedia:The_Morning_Call>
+SemSearch_ES-9	american embassy nairobi	<dbpedia:1998_United_States_embassy_bombings>
+SemSearch_ES-93	08 toyota tundra	<dbpedia:Toyota_Tundra>
+SemSearch_ES-96	New England Coffee	<dbpedia:The_2i's_Coffee_Bar>
+SemSearch_LS-10	did nicole kidman have any siblings	<dbpedia:Antonia_Kidman>
+SemSearch_LS-18	john lennon, parents	<dbpedia:John_Lennon_Anthology>
+SemSearch_LS-22	major leagues in the united states	<dbpedia:Major_League_Baseball>
+SemSearch_LS-3	astronauts who landed on the Moon	<dbpedia:Apollo_11>
+SemSearch_LS-31	permanent members of the UN Security Council	<dbpedia:United_States_and_the_United_Nations>
+SemSearch_LS-33	provinces and territories of Canada	<dbpedia:Northwest_Territories>
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<dbpedia:Camilo_Cienfuegos>
+SemSearch_LS-39	ten ancient Greek city-kingdoms of Cyprus	<dbpedia:Salamis,_Cyprus>
+SemSearch_LS-4	Axis powers of World War II	<dbpedia:Axis_powers>
+SemSearch_LS-42	twelve tribes or sons of Israel	<dbpedia:Tribe_of_Judah>
+SemSearch_LS-43	what books did paul of tarsus write?	<dbpedia:1_Corinthians_11>
+TREC_Entity-2	Winners of the ACM Athena award.	<dbpedia:Karen_Spärck_Jones>
+TREC_Entity-7	Airlines that currently use Boeing 747 planes.	<dbpedia:Saudia>
+TREC_Entity-9	Members of The Beaux Arts Trio.	<dbpedia:Bernard_Greenhouse>
