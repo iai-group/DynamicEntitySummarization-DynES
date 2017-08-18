@@ -5,7 +5,7 @@ This repository contains resources developed within the following paper:
 	F. Hasibi, K. Balog, and S.E. Bratsberg. “Dynamic Factual Summaries for Entity Cards”,
 	In proceedings of 40th ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR ’17),  2017.
 
-You can check the [paper](http://hasibi.com/files/sigir2017-dynes.pdf) and [presentation]() for detailed information.
+You can check the [paper](http://hasibi.com/files/sigir2017-dynes.pdf) and [presentation](https://www.slideshare.net/FaeghehHasibi/sigir2017dynes) for detailed information.
 
 The repository is structured as follows:
 
