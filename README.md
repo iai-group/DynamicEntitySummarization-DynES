@@ -2,15 +2,14 @@
 
 This repository provides resources developed within the following paper:
 
-	F. Hasibi, K. Balog, and S.E. Bratsberg. “Dynamic Factual Summaries for Entity Cards”,
-	In proceedings of 40th ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR ’17),  2017.
+> F. Hasibi, K. Balog, and S.E. Bratsberg. **Dynamic Factual Summaries for Entity Cards**, In proceedings of 40th ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR ’17), pages 773--782, 2017. [DOI:10.1145/3077136.3080810](http://doi.acm.org/10.1145/3077136.3080810)
 
 **You can check the author version of the [article](http://hasibi.com/files/sigir2017-dynes.pdf) and the [presentation](https://www.slideshare.net/FaeghehHasibi/sigir2017dynes) for more information.**
 
 
 ### Abstract
 
-	*Entity cards are being used frequently in modern web search engines to offer a concise overview of an entity directly on the results page. These cards are composed of various elements, one of them being the entity summary: a selection of facts describing the entity from an underlying knowledge base. These summaries, while presenting a synopsis of the entity, can also directly address users’ information needs. In this paper, we make the first effort towards generating and evaluating such factual summaries. We introduce and address the novel problem of dynamic entity summarization for entity cards, and break it down to two specific subtasks: fact ranking and summary generation. We perform an extensive evaluation of our method using crowdsourcing. Our results show the effectiveness of our fact ranking approach and validate that users prefer dynamic summaries over static ones.*
+> *Entity cards are being used frequently in modern web search engines to offer a concise overview of an entity directly on the results page. These cards are composed of various elements, one of them being the entity summary: a selection of facts describing the entity from an underlying knowledge base. These summaries, while presenting a synopsis of the entity, can also directly address users’ information needs. In this paper, we make the first effort towards generating and evaluating such factual summaries. We introduce and address the novel problem of dynamic entity summarization for entity cards, and break it down to two specific subtasks: fact ranking and summary generation. We perform an extensive evaluation of our method using crowdsourcing. Our results show the effectiveness of our fact ranking approach and validate that users prefer dynamic summaries over static ones.*
 
 ## Repository files 
 
