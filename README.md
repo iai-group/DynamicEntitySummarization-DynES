@@ -57,4 +57,4 @@ If you use the resources presented in this repository, please cite:
 
 ## Contact
 
-Should you have any questions, please contact Faegheh Hasibi at hasibi.44[AT]gmail.com (with [AT] replaced by @).
+Should you have any questions, please contact Faegheh Hasibi at <f.hasibi@cs.ru.nl>.
